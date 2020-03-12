@@ -2,8 +2,10 @@
 class CreateCostumeStores < ActiveRecord::Migration[4.2]
 
   def change 
-    create_table 
-  
+    create_table :costume_stores do ||
+    
+    
+    end
   end
 
 end
